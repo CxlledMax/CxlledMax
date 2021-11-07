@@ -1,6 +1,4 @@
-## My profile
-**CxlledMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on `EcoGlobal`
-- 🌱 I’m currently learning `Ruby`
-- 💬 Ask me about anything
-- 😄 Pronouns: `he/him`
+<!---
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=My%20Profile&fontSize=90)
+--->
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=My%20Profile&fontSize=90)
